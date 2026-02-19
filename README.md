@@ -30,8 +30,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arrel&show_icons=true&theme=tokyonight)
-
+![Arrel's GitHub stats](https://github-readme-stats.vercel.app/api?username=relxnina&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=relxnina&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=relxnina&layout=compact&theme=tokyonight)
 
 ---
 
