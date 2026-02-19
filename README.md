@@ -30,9 +30,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=relxnina&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=relxnina&show_icons=true&theme=tokyonight&rank_icon=github)
 ![GitHub Streak](https://streak-stats.demolab.com?user=relxnina&theme=tokyonight)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=relxnina&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=relxnina&layout=compact&theme=tokyonight)
 
 ---
 
