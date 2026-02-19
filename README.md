@@ -1,7 +1,15 @@
 # Hi 👋 I'm Arrel
 
 💻 Web Developer | Next.js • Firebase • Tailwind
-💬 Interest with WebDev, FrontEnd, BackEnd, adn 3D
+💬 Interest with WebDev, FrontEnd, BackEnd, and 3D
+
+---
+
+## 🌐 Reach me on:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/relxnina)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darrelrabbani4@email.com)
+
 
 ---
 
@@ -22,7 +30,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=relxnina&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arrel&show_icons=true&theme=tokyonight)
 
 
 ---
