@@ -1,6 +1,7 @@
 # Hi 👋 I'm Arrel
 
 💻 Web Developer | Next.js • Firebase • Tailwind
+
 💬 Interest with WebDev, FrontEnd, BackEnd, and 3D
 
 ---
@@ -21,6 +22,7 @@
 ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
+![Firestore](https://img.shields.io/badge/Firestore-000000?style=for-the-badge&logo=firestore)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
