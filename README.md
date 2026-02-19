@@ -5,10 +5,11 @@
 
 ---
 
-## 🧠 Tech Stack
-- Frontend: Next.js, React, Tailwind CSS
-- Backend: Firebase, Firestore
-- Tools: Git, GitHub, Vercel
+## 💻 Tech Stack:
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
 
 ---
 
