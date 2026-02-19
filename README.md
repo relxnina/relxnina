@@ -20,7 +20,10 @@
 
 ---
 
-https://github-readme-stats.vercel.app/api?username=relxnina
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=relxnina&show_icons=true&theme=tokyonight)
+
 
 ---
 
