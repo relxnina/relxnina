@@ -12,10 +12,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-
----
-
 ## 📫 Contact
 - Email: darrelrabbani4@gmail.com
